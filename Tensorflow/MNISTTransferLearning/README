@@ -1,0 +1,1 @@
+First I train my model using numbers from 0 to 4 from MNIST data so i can then move layers from this problem and use it on numbers from 5 to 9 with limited data.
